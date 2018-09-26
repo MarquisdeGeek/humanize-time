@@ -1,0 +1,14 @@
+{
+  "name": "humanize-time",
+  "version": "1.0.0",
+  "description": "Generates human-like phrases for the given time",
+  "main": "humanize-time.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Steven Goodwin",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
